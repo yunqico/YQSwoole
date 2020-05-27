@@ -1,0 +1,11 @@
+{
+    "name": "yunqi/swooleapi",
+    "description": "swoole api",
+    "authors": [
+        {
+            "name": "Azan",
+            "email": "icbc8@qq.com"
+        }
+    ],
+    "require": {}
+}
